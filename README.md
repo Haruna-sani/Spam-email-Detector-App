@@ -72,7 +72,7 @@ spam-email-classifier/
 │   ├── bow_vectorizer.pkl
 │   └── xgb_spam_classifier.pkl
 ├── utils/
-│   └── text_preprocessing.py
+│   └── train.py
 ├── requirements.txt
 └── README.md
 ```
